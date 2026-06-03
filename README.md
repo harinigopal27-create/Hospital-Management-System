@@ -11,29 +11,29 @@ The Hospital Management System is a web-based application designed to manage hos
 Many hospitals maintain patient and employee records manually, which can lead to data redundancy, errors, and delays in accessing information. Managing rooms, departments, patient details, and ambulance services manually is time-consuming and inefficient. This project aims to provide a centralized digital platform that simplifies hospital management activities, improves data accuracy, and enhances operational efficiency.
 
 ## Objectives
-Maintain patient information digitally.
-Manage employee and doctor records.
-Track room availability and allocation.
-Organize department information.
-Manage patient discharge details.
-Maintain ambulance service records.
-Reduce paperwork and manual errors.
-Improve hospital administration efficiency.
-Provide quick access to hospital records.
-Enhance data management and security.
+*Maintain patient information digitally.
+*Manage employee and doctor records.
+*Track room availability and allocation.
+*Organize department information.
+*Manage patient discharge details.
+*Maintain ambulance service records.
+*Reduce paperwork and manual errors.
+*Improve hospital administration efficiency.
+*Provide quick access to hospital records.
+*Enhance data management and security.
 ## Technologies Used
-Frontend
+# Frontend
 HTML5
 CSS3
 JavaScript
-Backend (Planned)
+# Backend (Planned)
 Java
 Spring Boot
-Database (Planned)
+# Database (Planned)
 MySQL
 Development Tools
 Visual Studio Code (VS Code)
 MySQL Workbench
-Browser
+# Browser
 Google Chrome
 Microsoft Edge
