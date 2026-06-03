@@ -22,18 +22,18 @@ Many hospitals maintain patient and employee records manually, which can lead to
 *Provide quick access to hospital records.
 *Enhance data management and security.
 ## Technologies Used
-# Frontend
+### Frontend
 HTML5
 CSS3
 JavaScript
-# Backend (Planned)
+### Backend (Planned)
 Java
 Spring Boot
-# Database (Planned)
+### Database (Planned)
 MySQL
 Development Tools
 Visual Studio Code (VS Code)
 MySQL Workbench
-# Browser
+### Browser
 Google Chrome
 Microsoft Edge
