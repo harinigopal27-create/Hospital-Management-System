@@ -12,8 +12,7 @@ Many hospitals maintain patient and employee records manually, which can lead to
 
 ## Objectives
 *Maintain patient information digitally.
-
-*Manage employee and doctor records.
+ *Manage employee and doctor records.
 *Track room availability and allocation.
 *Organize department information.
 *Manage patient discharge details.
