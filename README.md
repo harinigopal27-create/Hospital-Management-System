@@ -12,6 +12,7 @@ Many hospitals maintain patient and employee records manually, which can lead to
 
 ## Objectives
 *Maintain patient information digitally.
+
 *Manage employee and doctor records.
 *Track room availability and allocation.
 *Organize department information.
@@ -23,17 +24,15 @@ Many hospitals maintain patient and employee records manually, which can lead to
 *Enhance data management and security.
 ## Technologies Used
 ### Frontend
-HTML5
-CSS3
+HTML5,
+CSS3,
 JavaScript
 ### Backend (Planned)
 Java
-Spring Boot
 ### Database (Planned)
-MySQL
-Development Tools
+MySQL,
+### Development Tools
 Visual Studio Code (VS Code)
-MySQL Workbench
 ### Browser
-Google Chrome
+Google Chrome,
 Microsoft Edge
