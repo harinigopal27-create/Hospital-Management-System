@@ -45,3 +45,72 @@ Microsoft Edge
 *Provide quick access to hospital records.
 
 *Enhance data management and security.
+
+
+## Users
+
+### 1. Administrator
+
+Manage patient records
+Manage employee information
+Manage departments
+Manage room allocation
+Manage ambulance details
+Update patient records
+Handle patient discharge
+
+### 2. Receptionist
+
+Register new patients
+View patient information
+Allocate rooms
+Schedule appointments
+
+### 3. Doctor
+
+View patient details
+Update treatment information
+Access medical records
+
+### 4. Hospital Staff
+
+View assigned tasks
+Manage patient-related information
+
+
+## Module Preparation
+Module 1: Login Module
+User authentication
+Secure access to the system
+
+Module 2: Patient Management Module
+Add new patient
+View patient information
+Update patient details
+Patient discharge
+
+Module 3: Employee Management Module
+Add employee details
+View employee information
+Update employee records
+
+Module 4: Department Management Module
+Add department
+View department details
+Manage department records
+
+Module 5: Room Management Module
+Add room details
+Search room availability
+Allocate rooms to patients
+
+Module 6: Ambulance Management Module
+Add ambulance details
+View ambulance information
+Manage ambulance services
+
+Module 7: Reports Module
+Patient reports
+Employee reports
+Room availability reports
+Hospital activity reports
