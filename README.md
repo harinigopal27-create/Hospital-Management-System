@@ -51,31 +51,31 @@ Microsoft Edge
 
 ### 1. Administrator
 
-Manage patient records
-Manage employee information
-Manage departments
-Manage room allocation
-Manage ambulance details
-Update patient records
-Handle patient discharge
+Manage patient records,
+Manage employee information,
+Manage departments,
+Manage room allocation,
+Manage ambulance details,
+Update patient records,
+Handle patient discharge.
 
 ### 2. Receptionist
 
-Register new patients
-View patient information
-Allocate rooms
-Schedule appointments
+Register new patients,
+View patient information,
+Allocate rooms,
+Schedule appointments.
 
 ### 3. Doctor
 
-View patient details
-Update treatment information
-Access medical records
+View patient details,
+Update treatment information,
+Access medical records.
 
 ### 4. Hospital Staff
 
-View assigned tasks
-Manage patient-related information
+View assigned tasks,
+Manage patient-related information.
 
 
 ## Module Preparation
