@@ -114,3 +114,6 @@ Patient reports,
 Employee reports,
 Room availability reports,
 Hospital activity reports.
+
+## Use Case Diagram Preparation: 
+Identify actors (Administrator, Receptionist, Doctor) and design use cases such as Login, Add Patient, View Patient Information, Update Patient Details, Manage Rooms, Manage Departments, Patient Discharge, Search Room, Manage Ambulance, and Logout.
