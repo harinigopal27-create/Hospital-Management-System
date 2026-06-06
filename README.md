@@ -129,8 +129,9 @@ Patient Discharge,
 Manage Ambulance Services,
 Logout.                   
     
-                            
-                            
+## Database Requirement Analysis                            
+### Table List: 
+Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables.                            
                             
                             
 
