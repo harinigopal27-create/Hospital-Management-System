@@ -116,28 +116,22 @@ Room availability reports,
 Hospital activity reports.
 
 ## Use Case Diagram Preparation: 
-                          +----------------------------------+
-                           |   HOSPITAL MANAGEMENT SYSTEM     |
-                          +----------------------------------+
+                            
 
-   Administrator              Receptionist                Doctor
-        |                           |                       |
-        |                           |                       |
-        +------------+--------------+--------------+--------+
-                     |                             |
-                     |                             |
-     ---------------------------------------------------------
-    |                                                         |
-    |   ○ Login                                               |
-    |   ○ Add New Patient                                     |
-    |   ○ View Patient Information                            |
-    |   ○ Update Patient Details                              |
-    |   ○ Manage Rooms                                        |
-    |   ○ Search Room                                         |
-    |   ○ Manage Departments                                  |
-    |   ○ View Employee Information                           |
-    |   ○ Patient Discharge                                   |
-    |   ○ Manage Ambulance Services                           |
-    |   ○ Logout                                              |
-    |                                                         |
-     ---------------------------------------------------------
+      Administrator      Receptionist      Doctor
+             |                 |             |
+             ---------------------------------
+                           |
+      -----------------------------------------
+      | Login                                |
+      | Add New Patient                      |
+      | Patient Information                  |
+      | Update Patient Details               |
+      | Manage Rooms                         |
+      | Search Rooms                         |
+      | Manage Departments                   |
+      | Employee Information                 |
+      | Patient Discharge                    |
+      | Manage Ambulance Services            |
+      | Logout                               |
+      -----------------------------------------
