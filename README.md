@@ -116,4 +116,28 @@ Room availability reports,
 Hospital activity reports.
 
 ## Use Case Diagram Preparation: 
-Identify actors (Administrator, Receptionist, Doctor) and design use cases such as Login, Add Patient, View Patient Information, Update Patient Details, Manage Rooms, Manage Departments, Patient Discharge, Search Room, Manage Ambulance, and Logout.
+                          +----------------------------------+
+                           |   HOSPITAL MANAGEMENT SYSTEM     |
+                          +----------------------------------+
+
+   Administrator              Receptionist                Doctor
+        |                           |                       |
+        |                           |                       |
+        +------------+--------------+--------------+--------+
+                     |                             |
+                     |                             |
+     ---------------------------------------------------------
+    |                                                         |
+    |   ○ Login                                               |
+    |   ○ Add New Patient                                     |
+    |   ○ View Patient Information                            |
+    |   ○ Update Patient Details                              |
+    |   ○ Manage Rooms                                        |
+    |   ○ Search Room                                         |
+    |   ○ Manage Departments                                  |
+    |   ○ View Employee Information                           |
+    |   ○ Patient Discharge                                   |
+    |   ○ Manage Ambulance Services                           |
+    |   ○ Logout                                              |
+    |                                                         |
+     ---------------------------------------------------------
