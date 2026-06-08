@@ -127,7 +127,18 @@ Manage Departments,
 View Employee Information,
 Patient Discharge,
 Manage Ambulance Services,
-Logout.                   
+Logout.     
+
+              +--------------------------------+
+              |  Hospital Management System    |
+              |                                |
+Admin --------|--> Add Patient                 |
+              |--> View Patient                |
+              |--> Update Patient              |
+              |--> Delete Patient              |
+              |                                |
+Patient ------|--> Register Details            |
+              +--------------------------------+
     
 ## Database Requirement Analysis                            
 ### Table List: 
