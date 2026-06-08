@@ -137,17 +137,17 @@ Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables
 
 +------------------+                          
     
-|     PATIENT      |
+|     PATIENT         |
 
 +------------------+
  
-|  id (PK)         |
+|  id (PK)            |
   
-| name             |
+| name                |
   
-|  age             |
+|  age                |
    
-|  disease         |
+|  disease            |
 
 +------------------+
                             
