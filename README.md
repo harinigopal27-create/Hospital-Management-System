@@ -127,7 +127,8 @@ Manage Departments,
 View Employee Information,
 Patient Discharge,
 Manage Ambulance Services,
-Logout.     
+Logout. 
+
         Admin
           |
           |
