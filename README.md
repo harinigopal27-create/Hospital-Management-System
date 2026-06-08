@@ -131,8 +131,28 @@ Logout.
 
 ## Database Requirement Analysis                            
 ### Table List: 
-Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables.                            
-                            
-                            
+Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables.                   
 
+## ER Diagram Design
+
++------------------+                          
+|     PATIENT      |
++------------------+
+| id (PK)          |
+| name             |
+| age              |
+| disease          |
++------------------+
+                            
+## Database Schema Creation
+
+CREATE TABLE patient (
+    id BIGSERIAL PRIMARY KEY,
+    name VARCHAR(100),
+    age INT,
+    gender VARCHAR(10),
+    phone VARCHAR(15),
+    disease VARCHAR(100),
+    address VARCHAR(255)
+);
      
