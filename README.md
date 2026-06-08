@@ -128,18 +128,18 @@ View Employee Information,
 Patient Discharge,
 Manage Ambulance Services,
 Logout.     
-
-              +--------------------------------+
-              |  Hospital Management System    |
-              |                                |
-Admin --------|--> Add Patient                 |
-              |--> View Patient                |
-              |--> Update Patient              |
-              |--> Delete Patient              |
-              |                                |
-Patient ------|--> Register Details            |
-              +--------------------------------+
-    
+        Admin
+          |
+          |
+   +------------------+
+   | Add Patient      |
+   | View Patient     |
+   +------------------+
+          |
+          |
+  Hospital Management
+        System
+            
 ## Database Requirement Analysis                            
 ### Table List: 
 Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables.                            
