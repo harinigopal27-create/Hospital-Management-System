@@ -138,21 +138,33 @@ Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables
 +------------------+                          
 |     PATIENT      |
 +------------------+
-| id (PK)          |
+ 
+|  id (PK)         |
+  
 | name             |
-| age              |
-| disease          |
+  
+|  age             |
+   
+|  disease         |
+
 +------------------+
                             
 ## Database Schema Creation
 
 CREATE TABLE patient (
+
     id BIGSERIAL PRIMARY KEY,
+    
     name VARCHAR(100),
+    
     age INT,
+    
     gender VARCHAR(10),
+    
     phone VARCHAR(15),
+    
     disease VARCHAR(100),
+    
     address VARCHAR(255)
 );
      
