@@ -162,13 +162,7 @@ CREATE TABLE patient (
     
     age INT,
     
-    gender VARCHAR(10),
-    
-    phone VARCHAR(15),
-    
     disease VARCHAR(100),
-    
-    address VARCHAR(255)
     
 );
      
