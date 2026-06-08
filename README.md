@@ -136,7 +136,9 @@ Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables
 ## ER Diagram Design
 
 +------------------+                          
+    
 |     PATIENT      |
+
 +------------------+
  
 |  id (PK)         |
@@ -150,6 +152,7 @@ Patient, Employee, Department, Room, Ambulance, Discharge, and Login/User tables
 +------------------+
                             
 ## Database Schema Creation
+
 
 CREATE TABLE patient (
 
@@ -166,5 +169,6 @@ CREATE TABLE patient (
     disease VARCHAR(100),
     
     address VARCHAR(255)
+    
 );
      
